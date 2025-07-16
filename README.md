@@ -1,0 +1,1 @@
+# Sensor-de-vibraci-n
