@@ -16,7 +16,7 @@ void setup() {
   pinMode(led1, OUTPUT);
   pinMode(zumbador, OUTPUT);
   pinMode(sensor, INPUT);
-  tiempoInicio = millis(); // Inicializar el tiempo de inicio
+ 
 }
 
 void loop() {
