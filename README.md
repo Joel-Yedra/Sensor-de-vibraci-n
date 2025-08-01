@@ -113,7 +113,9 @@ if (lecturas > 60){ // Entre mas pequeño sea el valor que esta en el If MAS SEN
 }
 ```
    
+##  📹 Demo Video 
 
+[Arduino Vibration Alert System](https://www.youtube.com/shorts/2jzDF9op100)
 
 
 
